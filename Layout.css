@@ -1,0 +1,55 @@
+.headfoot{
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    color: whitesmoke;
+    background-color: mediumpurple ;
+    clear: both;
+}
+
+nav ul{
+    margin: auto;
+    padding: 1%;
+    background-color: #E5EAF5;
+}
+
+ nav ul li {
+   display: inline-block;
+   list-style-type: none; 
+   margin-right: 15px;
+}
+nav a:hover {
+    background-color: lightskyblue ;
+}
+
+.form{
+   margin: 2px; 
+   padding: 24px; 
+   width: 63%; 
+   float: left;
+   background-color: #A0D2EB;
+   label{
+    font-size: 20;
+   }
+}
+
+input:focus{
+    width: 50%;
+}
+
+.rules{
+    margin: 2px;
+    width: 20%;
+    padding: 24px;
+    float: right;
+    background-color: #D0BDF4;
+}
+
+.rules:hover{
+    background-color: #845BB3;
+}
+
+body{
+    background-color: #494D5F;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
