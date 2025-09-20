@@ -1,7 +1,7 @@
 .headfoot{
     text-align: center;
-    margin: auto;
-    padding: auto;
+    margin: 0px;
+    padding: 0px;
     color: whitesmoke;
     background-color: mediumpurple ;
     clear: both;
@@ -9,7 +9,7 @@
 
 nav ul{
     margin: auto;
-    padding: 0%;
+    padding: 1%;
     background-color: #E5EAF5;
 }
 
@@ -23,7 +23,7 @@ nav a:hover {
 }
 
 .form{
-   margin: auto; 
+   margin: 2px; 
    padding: 24px; 
    width: 63%; 
    float: left;
@@ -38,6 +38,7 @@ input:focus{
 }
 
 .rules{
+    margin: 2px;
     width: 20%;
     padding: 24px;
     float: right;
@@ -50,4 +51,5 @@ input:focus{
 
 body{
     background-color: #494D5F;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
